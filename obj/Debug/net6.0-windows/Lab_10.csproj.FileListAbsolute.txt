@@ -1,0 +1,146 @@
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Lab_10.exe
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Lab_10.deps.json
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Lab_10.runtimeconfig.json
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Lab_10.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Lab_10.pdb
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.AssemblyReference.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.FrmCompany.resources
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.FrmAddEmp.resources
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.GenerateResource.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.AssemblyInfoInputs.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.AssemblyInfo.cs
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.CopyComplete
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\refint\Lab_10.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.pdb
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\Lab_10.genruntimeconfig.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_10\obj\Debug\net6.0-windows\ref\Lab_10.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Lab_10.exe
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Lab_10.deps.json
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Lab_10.runtimeconfig.json
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Lab_10.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Lab_10.pdb
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.AssemblyReference.cache
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.FrmCompany.resources
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.FrmAddEmp.resources
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.GenerateResource.cache
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.AssemblyInfoInputs.cache
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.AssemblyInfo.cs
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.CoreCompileInputs.cache
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.CopyComplete
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\refint\Lab_10.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.pdb
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.genruntimeconfig.cache
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\ref\Lab_10.dll
+D:\ITP BI 2022\7 C#\Labs\Lab_10\obj\Debug\net6.0-windows\Lab_10.Properties.Resources.resources
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Lab_10.exe
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Lab_10.deps.json
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Lab_10.runtimeconfig.json
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Lab_10.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Lab_10.pdb
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.AssemblyReference.cache
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.FrmCompany.resources
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.FrmAddEmp.resources
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.Properties.Resources.resources
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.GenerateResource.cache
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.AssemblyInfoInputs.cache
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.AssemblyInfo.cs
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.csproj.CopyComplete
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\refint\Lab_10.dll
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.pdb
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\Lab_10.genruntimeconfig.cache
+C:\Users\ahmedmohamedismail\Downloads\Lab_10-20220922T165010Z-001\Lab_10\obj\Debug\net6.0-windows\ref\Lab_10.dll
